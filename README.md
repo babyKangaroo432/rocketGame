@@ -2,7 +2,7 @@
 
 ### this is another heading
 
-** some bold text **
+**some bold text**
 
 
 [
