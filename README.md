@@ -1,3 +1,10 @@
+# this is my heading
+
+### this is another heading
+
+** some bold text **
+
+
 [
 {
  "saveName": "joseph1"
